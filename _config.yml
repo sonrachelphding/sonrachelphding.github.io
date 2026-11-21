@@ -13,7 +13,7 @@ title                    : "Rachel Son, Ph.D."
 title_separator          : "-"
 name                     : &name "Rachel Son"
 description              : &description "Academic portfolio of Rachel Son"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "sonrachelphding.github.io"
+url                      : "https://sonrachelphding.github.io"
 baseurl                  : ""
 repository               : "sonrachelphding/sonrachelphding.github.io"
 
@@ -25,9 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Rachel Son"
   pronouns         : "she/her"  
-  bio              : "Assistant Professor of Emerging Media. My research interests aim to understand media 
-  phenomena at the intersection of media psychology, global entertainment, and the use of emerging technologies 
-  as producers and providers of entertainment content."
+  bio: "Assistant Professor of Emerging Media. My research interests aim to understand media phenomena at the intersection of media psychology, global entertainment, and the use of emerging technologies as producers and providers of entertainment content."
   location         : "Greenville, North Carolina"
   employer         : "East Carolina University"
   uri              : "https://communication.ecu.edu/people/rachel-son/"
