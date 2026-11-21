@@ -13,7 +13,7 @@ title                    : "Rachel Son, Ph.D."
 title_separator          : "-"
 name                     : &name "Rachel Son"
 description              : &description "Academic portfolio of Rachel Son"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://sonrachelphding.github.io"
+url                      : "sonrachelphding.github.io"
 baseurl                  : ""
 repository               : "sonrachelphding/sonrachelphding.github.io"
 
