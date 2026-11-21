@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+o# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -24,13 +24,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Rachel Son"
+  pronouns         : "she/her"  
+  bio              : "Assistant Professor of Emerging Media. My research interests aim to understand media 
+  phenomena at the intersection of media psychology, global entertainment, and the use of emerging technologies 
+  as producers and providers of entertainment content."
+  location         : "Greenville, North Carolina"
+  employer         : "East Carolina University"
+  uri              : "https://communication.ecu.edu/people/rachel-son/"
+  email            : 
 
   # Academic websites
   academia         : # URL
